@@ -8,17 +8,39 @@
 
 import UIKit
 
+extension UInt {
+    init?(_ string: String, radix: UInt) {
+        let digits = "0123456789abcdefghijklmnopqrstuvwxyz"
+        var result = UInt(0)
+        for digit in string.lowercaseString {
+            if let range = digits.rangeOfString(String(digit)) {
+                let val = UInt(distance(digits.startIndex, range.startIndex))
+                if val >= radix {
+                    return nil
+                }
+                result = result * radix + val
+            } else {
+                return nil
+            }
+        }
+        self = result
+    }
+}
+
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var display: UILabel!
     
     @IBOutlet weak var history: UILabel!
     
+    @IBOutlet weak var baseDisplay: UILabel!
+    
     var userIsInTheMiddleOfTypingANumber = false
     
     var brain = CalcBrain()
     
-    var currentBase = ""
+    var currentBase = "10"
     
     @IBAction func appendDigit(sender: UIButton) {
         let digit = sender.currentTitle!
@@ -44,6 +66,7 @@ class ViewController: UIViewController {
     
     @IBAction func base(sender: UIButton) {
         currentBase = sender.currentTitle!
+        baseDisplay.text = currentBase; 
     }
     
     
