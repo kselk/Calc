@@ -7,25 +7,8 @@
 //
 
 import UIKit
+import Foundation
 
-extension UInt {
-    init?(_ string: String, radix: UInt) {
-        let digits = "0123456789abcdefghijklmnopqrstuvwxyz"
-        var result = UInt(0)
-        for digit in string.lowercaseString {
-            if let range = digits.rangeOfString(String(digit)) {
-                let val = UInt(distance(digits.startIndex, range.startIndex))
-                if val >= radix {
-                    return nil
-                }
-                result = result * radix + val
-            } else {
-                return nil
-            }
-        }
-        self = result
-    }
-}
 
 
 class ViewController: UIViewController {
@@ -66,7 +49,7 @@ class ViewController: UIViewController {
     
     @IBAction func base(sender: UIButton) {
         currentBase = sender.currentTitle!
-        baseDisplay.text = currentBase; 
+        baseDisplay.text = currentBase;
     }
     
     
@@ -108,9 +91,11 @@ class ViewController: UIViewController {
     }
     var displayValue: Double?{
         get {
+            
             if (NSNumberFormatter().numberFromString(display.text!) != nil){
                 return NSNumberFormatter().numberFromString(display.text!)!.doubleValue
-            } else {
+            }
+            else {
                 return nil
             }
         }
