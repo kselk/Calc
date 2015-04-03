@@ -71,6 +71,7 @@ class CalcBrain : Printable
                 learnOp(Op.UnaryOperation("cos", cos))
         
                 learnOp(Op.ConstantOperation("π", {M_PI} ))
+                learnOp(Op.BinaryOperation("^",  {pow($0, $1)}  ))
     }
     
     var variableValues = [String : Double]()

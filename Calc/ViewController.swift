@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     
     var brain = CalcBrain()
     
+    var currentBase = ""
+    
     @IBAction func appendDigit(sender: UIButton) {
         let digit = sender.currentTitle!
         if userIsInTheMiddleOfTypingANumber {
@@ -39,6 +41,11 @@ class ViewController: UIViewController {
             userIsInTheMiddleOfTypingANumber = true
         }
     }
+    
+    @IBAction func base(sender: UIButton) {
+        currentBase = sender.currentTitle!
+    }
+    
     
     @IBAction func operate(sender: UIButton) {
         if userIsInTheMiddleOfTypingANumber {
