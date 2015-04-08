@@ -9,6 +9,28 @@
 import UIKit
 import Foundation
 
+extension Double {
+    
+    var toBase10 : String {
+        return "\(self)"
+    }
+    
+}
+
+
+extension String {
+    
+    var fromBase10toDouble: Double {
+        return NSNumberFormatter().numberFromString(self)!.doubleValue
+    }
+    var fromBase16toDouble: Double {
+        return 1.2
+    }
+    var fromBase2toDouble: Double {
+        return 101
+    }
+    
+}
 
 
 class ViewController: UIViewController {
@@ -23,7 +45,7 @@ class ViewController: UIViewController {
     
     var brain = CalcBrain()
     
-    var currentBase = "10"
+    var currentBase = "(10)"
     
     @IBAction func appendDigit(sender: UIButton) {
         let digit = sender.currentTitle!
@@ -49,7 +71,8 @@ class ViewController: UIViewController {
     
     @IBAction func base(sender: UIButton) {
         currentBase = sender.currentTitle!
-        baseDisplay.text = currentBase;
+        baseDisplay.text =  currentBase ;
+        enter()
     }
     
     
@@ -93,7 +116,17 @@ class ViewController: UIViewController {
         get {
             
             if (NSNumberFormatter().numberFromString(display.text!) != nil){
-                return NSNumberFormatter().numberFromString(display.text!)!.doubleValue
+                switch currentBase {
+                case "(10)":
+                    return display.text!.fromBase10toDouble
+                case "(16)":
+                    return display.text!.fromBase16toDouble
+                case "(2)":
+                    return display.text!.fromBase2toDouble
+                default:
+                    return nil
+                }
+                
             }
             else {
                 return nil
