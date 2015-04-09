@@ -27,19 +27,20 @@
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6SJ-iA-JY8">
                                 <rect key="frame" x="24" y="31" width="380" height="55"/>
-                                <color key="backgroundColor" red="0.20142288001845718" green="0.19768564443161044" blue="0.43453045280612246" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.64444994745438722" green="0.95232591202734174" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="55" id="GL9-6w-brA"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="32"/>
-                                <color key="textColor" red="0.0" green="0.87058056635957826" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="textColor" red="0.00069614960194100503" green="0.16372369260204078" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qg0-ny-LWy">
                                 <rect key="frame" x="472" y="31" width="104" height="55"/>
-                                <color key="backgroundColor" red="0.32680963010000003" green="0.087473570040000004" blue="0.054009754620000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="C">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -48,12 +49,13 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Uue-Vf-lYl">
                                 <rect key="frame" x="24" y="250" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="SVT-l5-itW"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="7">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -62,9 +64,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dwe-QK-Cs2">
                                 <rect key="frame" x="136" y="250" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="8">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -73,9 +76,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UGG-eG-axF">
                                 <rect key="frame" x="248" y="250" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="9">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -84,12 +88,13 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Ec-Mf-EWG">
                                 <rect key="frame" x="24" y="328" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="iEn-Td-JKR"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="4">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -98,9 +103,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CnY-Oa-Dyi">
                                 <rect key="frame" x="136" y="328" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="5">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -109,9 +115,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iAf-0Q-wVz">
                                 <rect key="frame" x="248" y="328" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="6">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -120,12 +127,13 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="naZ-q4-iqK">
                                 <rect key="frame" x="24" y="406" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="SRE-Hn-awf"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="1">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -134,9 +142,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hUb-K5-QKL">
                                 <rect key="frame" x="136" y="406" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="2">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -145,9 +154,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MCV-hg-vir">
                                 <rect key="frame" x="248" y="406" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="3">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -156,9 +166,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b1p-kN-1LD">
                                 <rect key="frame" x="360" y="250" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="×">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -167,9 +178,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Adp-hv-OxW">
                                 <rect key="frame" x="360" y="328" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="÷">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -178,9 +190,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xSf-IX-uCj">
                                 <rect key="frame" x="360" y="406" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="+">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -189,9 +202,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H8B-uh-yUp">
                                 <rect key="frame" x="472" y="250" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="π">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -200,9 +214,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rk8-VY-xRX">
                                 <rect key="frame" x="472" y="328" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="cos">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -211,9 +226,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JyY-zq-z9a">
                                 <rect key="frame" x="472" y="406" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="sin">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -222,12 +238,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tZX-6D-4bd">
                                 <rect key="frame" x="24" y="172" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="70" id="u6g-1M-Wc9"/>
-                                </constraints>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="A">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -236,9 +250,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J4b-1l-nXK">
                                 <rect key="frame" x="136" y="172" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="B">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -247,9 +262,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kp8-Xh-a1B">
                                 <rect key="frame" x="248" y="172" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="C">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -258,13 +274,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N33-EW-O2h">
                                 <rect key="frame" x="24" y="94" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="70" id="1aH-Ju-hQW"/>
-                                    <constraint firstAttribute="width" constant="104" id="d4T-KV-oUK"/>
-                                </constraints>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="D">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -273,12 +286,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0wx-I2-5Sh">
                                 <rect key="frame" x="136" y="94" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="104" id="tW6-p3-y0f"/>
-                                </constraints>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="E">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -287,9 +298,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4hM-ea-4qo">
                                 <rect key="frame" x="248" y="94" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="F">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -298,9 +310,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nIq-au-spO">
                                 <rect key="frame" x="360" y="172" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="^">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -309,9 +322,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JYu-1h-MsV">
                                 <rect key="frame" x="472" y="172" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="(10)">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -321,23 +335,23 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vMy-iQ-1Qd">
                                 <rect key="frame" x="360" y="94" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="104" id="YPF-aa-WZJ"/>
-                                </constraints>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="(16)">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="base:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ia3-mz-cDx"/>
+                                    <action selector="operate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="M3w-aE-8as"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qbr-nv-1Rn">
                                 <rect key="frame" x="472" y="94" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="(2)">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -347,9 +361,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uvh-x7-cNz">
                                 <rect key="frame" x="136" y="484" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="0">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -358,9 +373,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="siR-HZ-CMq">
                                 <rect key="frame" x="248" y="484" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="⏎">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -369,9 +385,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Be-ju-hRg">
                                 <rect key="frame" x="360" y="484" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="-">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -380,9 +397,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qpf-1R-POn">
                                 <rect key="frame" x="472" y="484" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title="√">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -391,9 +409,10 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NqK-rS-IBO">
                                 <rect key="frame" x="24" y="484" width="104" height="70"/>
-                                <color key="backgroundColor" red="0.32680963010204078" green="0.087473570036993784" blue="0.05400975461611162" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.20460560238909872" green="0.72725017788903334" blue="0.91651387117346939" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
                                 <state key="normal" title=".">
+                                    <color key="titleColor" red="0.010004248341658337" green="0.43829719387755106" blue="0.36322679182384965" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" red="0.5" green="0.46407376656845611" blue="0.47259648460958043" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -402,13 +421,13 @@
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="(10)" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZQ9-k2-LIW">
                                 <rect key="frame" x="404" y="31" width="60" height="55"/>
-                                <color key="backgroundColor" red="0.20142288" green="0.1976856444" blue="0.43453045280000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.64444994745438722" green="0.95232591202734174" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="32"/>
-                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="textColor" red="0.00022493752052185387" green="0.10875717474489799" blue="0.00034899497205338303" alpha="0.5" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.20105229591836737" green="0.021723947509415965" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.5903424535497338" green="0.58846105214505406" blue="0.60216039540816324" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="tintColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="siR-HZ-CMq" firstAttribute="baseline" secondItem="uvh-x7-cNz" secondAttribute="baseline" id="07m-V7-dmh"/>
